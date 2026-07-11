@@ -1,0 +1,1 @@
+public class Payment{public void process(double amt){System.out.println("Payment of ₱"+amt+" successful.");}}

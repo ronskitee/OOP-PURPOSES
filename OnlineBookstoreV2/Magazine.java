@@ -1,0 +1,1 @@
+public class Magazine extends Product{public Magazine(int i,String t,double p){super(i,t,p);} public void viewIssueNumber(){System.out.println("Viewing issue.");}}

@@ -1,0 +1,1 @@
+public class DeliveryAddress{private String address;public DeliveryAddress(String a){address=a;}public String getAddress(){return address;}}
