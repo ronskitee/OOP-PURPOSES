@@ -1,1 +1,0 @@
-public class Book extends Product{public Book(int i,String t,double p){super(i,t,p);} public void shipBook(){System.out.println("Book shipped.");}}

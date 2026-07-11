@@ -1,1 +1,0 @@
-public class EBook extends Product{public EBook(int i,String t,double p){super(i,t,p);} public void download(){System.out.println("Downloaded.");}}
